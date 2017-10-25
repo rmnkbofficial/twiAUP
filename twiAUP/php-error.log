@@ -1,0 +1,70 @@
+[12-Dec-2016 11:36:43 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/functions.php on line 442
+[12-Dec-2016 11:36:43 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 11:36:43 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[12-Dec-2016 15:10:40 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/functions.php on line 439
+[12-Dec-2016 15:10:40 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 15:10:40 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[12-Dec-2016 15:11:02 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/functions.php on line 439
+[12-Dec-2016 15:11:02 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 15:11:02 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[12-Dec-2016 15:21:00 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/functions.php on line 461
+[12-Dec-2016 15:21:00 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 15:21:00 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[12-Dec-2016 15:26:17 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/functions.php on line 460
+[12-Dec-2016 15:26:17 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 15:26:17 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[12-Dec-2016 21:47:24 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/functions.php on line 442
+[12-Dec-2016 21:47:24 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 21:47:24 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[12-Dec-2016 21:53:05 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/functions.php on line 446
+[12-Dec-2016 21:53:05 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 21:53:05 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[12-Dec-2016 21:53:20 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/functions.php on line 446
+[12-Dec-2016 21:53:20 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 21:53:20 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[12-Dec-2016 21:53:34 Europe/Paris] PHP Fatal error:  Call to a member function register() on a non-object in /home/ubuntu/workspace/functions.php on line 38
+[12-Dec-2016 21:53:34 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 21:53:34 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[12-Dec-2016 21:53:34 Europe/Paris] PHP   2. login() /home/ubuntu/workspace/login.php:14
+[12-Dec-2016 22:15:51 Europe/Paris] PHP Fatal error:  Call to undefined function register() in /home/ubuntu/workspace/register.php on line 15
+[12-Dec-2016 22:15:51 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 22:15:51 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/register.php:0
+[12-Dec-2016 22:18:34 Europe/Paris] PHP Fatal error:  Call to undefined function register() in /home/ubuntu/workspace/register.php on line 15
+[12-Dec-2016 22:18:34 Europe/Paris] PHP Stack trace:
+[12-Dec-2016 22:18:34 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/register.php:0
+[13-Dec-2016 19:23:26 Europe/Paris] PHP Fatal error:  Call to undefined function register() in /home/ubuntu/workspace/register.php on line 15
+[13-Dec-2016 19:23:26 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 19:23:26 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/register.php:0
+[13-Dec-2016 19:24:27 Europe/Paris] PHP Fatal error:  Call to undefined function register() in /home/ubuntu/workspace/register.php on line 15
+[13-Dec-2016 19:24:27 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 19:24:27 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/register.php:0
+[13-Dec-2016 19:26:03 Europe/Paris] PHP Fatal error:  Call to undefined function register() in /home/ubuntu/workspace/register.php on line 15
+[13-Dec-2016 19:26:03 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 19:26:03 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/register.php:0
+[13-Dec-2016 19:27:38 Europe/Paris] PHP Fatal error:  Call to undefined function register() in /home/ubuntu/workspace/register.php on line 15
+[13-Dec-2016 19:27:38 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 19:27:38 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/register.php:0
+[13-Dec-2016 19:33:00 Europe/Paris] PHP Fatal error:  Call to undefined function register() in /home/ubuntu/workspace/register.php on line 15
+[13-Dec-2016 19:33:00 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 19:33:00 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/register.php:0
+[13-Dec-2016 19:40:24 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/functions.php on line 449
+[13-Dec-2016 19:40:24 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 19:40:24 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/register.php:0
+[13-Dec-2016 19:40:28 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/functions.php on line 449
+[13-Dec-2016 19:40:28 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 19:40:28 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[13-Dec-2016 19:42:04 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/functions.php on line 450
+[13-Dec-2016 19:42:04 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 19:42:04 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[13-Dec-2016 19:47:18 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/functions.php on line 450
+[13-Dec-2016 19:47:18 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 19:47:18 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[13-Dec-2016 20:20:33 Europe/Paris] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/ubuntu/workspace/functions.php on line 38
+[13-Dec-2016 20:20:33 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 20:20:33 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[13-Dec-2016 20:51:55 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/functions.php on line 450
+[13-Dec-2016 20:51:55 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 20:51:55 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0
+[14-Dec-2016 02:57:11 Europe/Paris] PHP Parse error:  syntax error, unexpected ''username'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ubuntu/workspace/functions.php on line 186
+[14-Dec-2016 02:57:11 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 02:57:11 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/login.php:0

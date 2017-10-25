@@ -1,0 +1,77 @@
+[06-Dec-2016 15:58:06 Europe/Paris] flit is:my life is cool, coorx is:0, coory is:0
+[06-Dec-2016 15:58:06 Europe/Paris] flit is:my life is uncool, coorx is:0, coory is:0
+[06-Dec-2016 15:58:07 Europe/Paris] PHP Fatal error:  Call to undefined function user_search() in /home/ubuntu/workspace/api/user_search.php on line 9
+[06-Dec-2016 15:58:07 Europe/Paris] PHP Stack trace:
+[06-Dec-2016 15:58:07 Europe/Paris] PHP   1. {main}() /home/ubuntu/workspace/api/user_search.php:0
+[10-Dec-2016 15:01:58 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:01:58 UTC] PHP Stack trace:
+[10-Dec-2016 15:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/reset.php:0
+[10-Dec-2016 15:01:59 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:01:59 UTC] PHP Stack trace:
+[10-Dec-2016 15:01:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/register.php:0
+[10-Dec-2016 15:01:59 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:01:59 UTC] PHP Stack trace:
+[10-Dec-2016 15:01:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/login.php:0
+[10-Dec-2016 15:01:59 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:01:59 UTC] PHP Stack trace:
+[10-Dec-2016 15:01:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/login.php:0
+[10-Dec-2016 15:01:59 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:01:59 UTC] PHP Stack trace:
+[10-Dec-2016 15:01:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/timeline.php:0
+[10-Dec-2016 15:02:00 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:02:00 UTC] PHP Stack trace:
+[10-Dec-2016 15:02:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/post.php:0
+[10-Dec-2016 15:02:00 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:02:00 UTC] PHP Stack trace:
+[10-Dec-2016 15:02:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/timeline.php:0
+[10-Dec-2016 15:02:00 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:02:00 UTC] PHP Stack trace:
+[10-Dec-2016 15:02:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/post.php:0
+[10-Dec-2016 15:02:00 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:02:00 UTC] PHP Stack trace:
+[10-Dec-2016 15:02:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/timeline.php:0
+[10-Dec-2016 15:02:00 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:02:00 UTC] PHP Stack trace:
+[10-Dec-2016 15:02:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/delete_post.php:0
+[10-Dec-2016 15:02:00 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:02:00 UTC] PHP Stack trace:
+[10-Dec-2016 15:02:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/search.php:0
+[10-Dec-2016 15:02:00 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:02:00 UTC] PHP Stack trace:
+[10-Dec-2016 15:02:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/user_search.php:0
+[10-Dec-2016 15:03:12 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:12 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/reset.php:0
+[10-Dec-2016 15:03:13 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:13 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/register.php:0
+[10-Dec-2016 15:03:13 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:13 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/login.php:0
+[10-Dec-2016 15:03:13 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:13 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/login.php:0
+[10-Dec-2016 15:03:13 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:13 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/timeline.php:0
+[10-Dec-2016 15:03:14 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:14 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/post.php:0
+[10-Dec-2016 15:03:14 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:14 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/timeline.php:0
+[10-Dec-2016 15:03:14 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:14 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/post.php:0
+[10-Dec-2016 15:03:15 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:15 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/timeline.php:0
+[10-Dec-2016 15:03:15 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:15 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/delete_post.php:0
+[10-Dec-2016 15:03:15 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:15 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/search.php:0
+[10-Dec-2016 15:03:15 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/ubuntu/workspace/config.php:24) in /home/ubuntu/workspace/functions.php on line 12
+[10-Dec-2016 15:03:15 UTC] PHP Stack trace:
+[10-Dec-2016 15:03:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/api/user_search.php:0
